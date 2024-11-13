@@ -25,7 +25,7 @@ We provide the checkpoints of [TCL](https://github.com/Yunfan-Li/Twin-Contrastiv
 
 > python fine-tune.py
 
-## Test
+## Testing
 
 > python cluster.py
 
