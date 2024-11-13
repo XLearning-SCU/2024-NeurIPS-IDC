@@ -1,0 +1,12 @@
+ConfigParser
+matplotlib
+munkres
+numpy
+Pillow
+PyYAML
+scikit_learn
+scipy
+timm
+torch
+torchvision
+tqdm

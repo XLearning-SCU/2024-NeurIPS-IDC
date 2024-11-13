@@ -1,0 +1,22 @@
+seed: 0
+workers: 4
+dataset_dir: "./datasets"
+dataset: "ImageNet-10" # CIFAR-10 / CIFAR-100 / STL-10 / ImageNet-10 / ImageNet-dogs
+model_path: "save/ImageNet-10"
+cuda: '0'
+
+# selection options
+budget: 500
+candidate_num: 5
+
+# TCL parameters
+feature_dim: 128
+learning_rate: 0.0001
+weight_decay: 0.0001
+batch_size: 256
+start_epoch: 0
+reload: False
+epochs: 1000
+
+
+
